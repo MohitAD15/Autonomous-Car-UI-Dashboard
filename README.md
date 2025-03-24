@@ -1,4 +1,4 @@
-# Project Title: Autonomous-Car-UI-Dashboard
+# Autonomous-Car-UI-Dashboard
 
 ## Live Demo
 
